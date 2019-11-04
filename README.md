@@ -38,7 +38,7 @@ Are you planning a trip to treat yourself to long holiday vacation. This project
 
 * Query to find the most active stations.
 
-  * List the stations and observation counts in descending order.
+  * List the stations and observation counts in descending order .
 
   * Which station has the highest number of observations?
 
